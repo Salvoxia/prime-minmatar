@@ -7,4 +7,4 @@
  * @package EDK
  */
 
-$themeInfo = array("name" => "Prime (Minmatar Version)", "info"=>"By Vecati");
+$themeInfo = array("name" => "Prime (Minmatar Version)", "info"=>"Theme by Vecati. Maintained by Salvoxia.");
