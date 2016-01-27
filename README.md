@@ -5,7 +5,7 @@ Original thread: http://evekb.org/forum/viewtopic.php?f=1033&t=18159
 
 
 ##Installation
-Upload the prime-g folder to your killboard/themes folder. Select the theme in ACP -> Global Options.
+Upload the prime-m folder to your killboard/themes folder. Select the theme in ACP -> Global Options.
 
 
 ##Changelog after initial release
